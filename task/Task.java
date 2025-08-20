@@ -1,3 +1,7 @@
+/**
+ * Represents a task entity with properties for its identifier, title, description, and completion status.
+ * This class serves as a data model for managing individual tasks within an application.
+ */
 package task;
 
 public class Task {
