@@ -1,3 +1,8 @@
+/**
+ * Service class responsible for managing {@code Task} objects within an in-memory storage.
+ * It provides core CRUD (Create, Read, Update, Delete) operations, including automatic ID generation,
+ * to handle tasks efficiently.
+ */
 package task;
 
 import java.util.ArrayList;
